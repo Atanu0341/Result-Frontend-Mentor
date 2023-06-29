@@ -27,12 +27,17 @@ Users should be able to:
 ### Screenshot
 
 
-![Desktop](./result%E2%82%8Bscreenshots/desktop.png)
-![Mobile](./result%E2%82%8Bscreenshots/mobile.png)
+Desktop preview :
+![image]()
+
+Mobile Preview :
+![image]()
 
 ### Links
 
-- Solution URL: [Github Pages](https://vacii.github.io/summary-component/src/)
+- Solution URL: https://github.com/Atanu0341/Result-Frontend-Mentor
+
+- Live Site URL: https://result-frontend-mentor.vercel.app/
 
 ## My process
 
@@ -49,9 +54,11 @@ Users should be able to:
 
 - [TailwindCSS](https://tailwindcss.com/) - Tailwind has easy and clear documentation which helped me a lot with coding this site
 
-
 ## Author
 
-- Website - [Atanu Majumder](http://lukasvaclavek.eu/)
-- Frontend Mentor - [@Vacii](https://www.frontendmentor.io/profile/Vacii)
+Frontend Mentor - [@Atanu0341](https://www.frontendmentor.io/profile/Atanu0341)
+
+Linkedin - [@Atanu Majumder](https://www.linkedin.com/in/atanu-majumder-169074220/)
+
+Twitter - [@Atanu10704224](https://twitter.com/Atanu10704224)
 
